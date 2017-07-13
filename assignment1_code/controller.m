@@ -10,8 +10,8 @@ u = 0;
 
 % FILL IN YOUR CODE HERE
 
-k_p=3;
-k_v=0;
+k_p=;
+k_v=;
 
 e=s_des-s;
 z_des_2ord=u/params.mass - params.gravity;

@@ -19,13 +19,13 @@ u2 = 0;
 
 % FILL IN YOUR CODE HERE
 
-k_vy=10;
-k_vz=30;
-k_vphi=30;
+k_vy=;
+k_vz=;
+k_vphi=;
 
-k_py=0;
-k_pz=200;
-k_pphi=200;
+k_py=;
+k_pz=;
+k_pphi=;
 %phi_c_ddot = u2/params.Ixx;
 phi_c_ddot = 0;
 phi_c_dot=0;
